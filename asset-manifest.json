@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Febrio123/myPortofolio-ReactJS/static/css/main.4050bf78.css",
+    "main.js": "/Febrio123/myPortofolio-ReactJS/static/js/main.99775f81.js",
+    "static/media/project2.png": "/Febrio123/myPortofolio-ReactJS/static/media/project2.5018e89092215f12c8d1.png",
+    "static/media/bgTechStack.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/bgTechStack.cbf94710abfb099a6c9a.jpg",
+    "static/media/febrio.png": "/Febrio123/myPortofolio-ReactJS/static/media/febrio.d1b52653ddb5aa471af6.png",
+    "static/media/wave.png": "/Febrio123/myPortofolio-ReactJS/static/media/wave.63e234108f1df88be448.png",
+    "static/media/c.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/c.e41f275b50807a66194a.jpg",
+    "static/media/project1.png": "/Febrio123/myPortofolio-ReactJS/static/media/project1.fa7953acf93ae24535be.png",
+    "static/media/d.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/d.1ad2a99c6f45076de7a8.jpg",
+    "static/media/g.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/g.fa90e95af837f23157c4.jpg",
+    "static/media/project3.png": "/Febrio123/myPortofolio-ReactJS/static/media/project3.ec362dcbae703dc18d21.png",
+    "static/media/i.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/i.0719cd84fdfcd1222215.jpg",
+    "static/media/f.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/f.423bd1c957d52ebb5204.jpg",
+    "static/media/a.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/a.b22965c11569044b849e.jpg",
+    "static/media/h.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/h.25b1f3da56de28f5b997.jpg",
+    "static/media/einstein.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/einstein.a19f032556c92cb07e3d.jpg",
+    "static/media/b.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/b.d447112c6bde629839e3.jpg",
+    "static/media/project4.png": "/Febrio123/myPortofolio-ReactJS/static/media/project4.7372391e66b3cadf1a30.png",
+    "static/media/e.jpg": "/Febrio123/myPortofolio-ReactJS/static/media/e.2c3d060d8d16b75b6db2.jpg",
+    "index.html": "/Febrio123/myPortofolio-ReactJS/index.html",
+    "main.4050bf78.css.map": "/Febrio123/myPortofolio-ReactJS/static/css/main.4050bf78.css.map",
+    "main.99775f81.js.map": "/Febrio123/myPortofolio-ReactJS/static/js/main.99775f81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4050bf78.css",
+    "static/js/main.99775f81.js"
+  ]
+}
